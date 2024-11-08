@@ -13,6 +13,19 @@ The primary goal of this project is to develop a Power BI dashboard that tracks 
 - Allow users to filter data by year and dynamically toggle between sales, profit, and quantity.
 - Include a comparison of current year (CY) and previous year (PY) metrics, with a year-over-year (YoY) analysis for sales, profit, and quantity.
 - Visualize sales trends through bar sparklines and include average lines for better trend analysis.
+  
   Additional features include:
 - Sales by State: A bubble map representing sales distribution across states, paired with a bar chart for detailed comparison.
 - KPI Table: A tabular view of CY and PY metrics for sales, profit, and quantity, along with YoY changes.
+
+#### Project Steps
+The project followed these major steps:
+1. Requirement Gathering: Defined the business objectives and KPIs.
+2. Data Walkthrough: Explored the dataset to understand its structure.
+3. Data Connection: Connected to the data source and prepared for modeling.
+4. Data Cleaning/Quality Check: Processed and ensured data accuracy.
+5. Data Modeling: Structured data for effective analysis.
+6. DAX Calculations: Created dynamic calculations to meet reporting needs.
+7. Dashboard Development: Designed the layout, created charts, and formatted reports.
+8. Insights Generation: Derived actionable insights from the visualizations.
+
