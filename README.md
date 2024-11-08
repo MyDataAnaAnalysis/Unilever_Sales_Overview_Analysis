@@ -9,7 +9,7 @@ The data used is a dummy dataset meant to represent real-world sales scenarios f
 ### Business Requirements
 The primary goal of this project is to develop a Power BI dashboard that tracks key performance indicators (KPIs) for Unilever's sales. The dashboard should:
 
--- Display sales, profit, and quantity metrics across four regions: Central, East, South, and West.
--- Allow users to filter data by year and dynamically toggle between sales, profit, and quantity.
--- Include a comparison of current year (CY) and previous year (PY) metrics, with a year-over-year (YoY) analysis for sales, profit, and quantity.
--- Visualize sales trends through bar sparklines and include average lines for better trend analysis.
+- Display sales, profit, and quantity metrics across four regions: Central, East, South, and West.
+ Allow users to filter data by year and dynamically toggle between sales, profit, and quantity.
+ Include a comparison of current year (CY) and previous year (PY) metrics, with a year-over-year (YoY) analysis for sales, profit, and quantity.
+- Visualize sales trends through bar sparklines and include average lines for better trend analysis.
