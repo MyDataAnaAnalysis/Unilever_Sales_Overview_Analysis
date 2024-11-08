@@ -38,5 +38,7 @@ The project followed these major steps:
 - Comparative analysis between current and previous years' metrics.
 - Identification of high-performing regions and products.
 - Insights into sales distribution across different states.
+
+  ![Dashboard](https://github.com/user-attachments/assets/c1e62470-2ac6-4418-a61b-c28cd392d80e)
   
 
